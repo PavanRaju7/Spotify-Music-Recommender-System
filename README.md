@@ -10,7 +10,7 @@
 3.<img width="816" alt="Screenshot 2023-09-11 214714" src="https://github.com/PavanRaju7/Spotify-Music-Recommender-System/assets/137611634/6cb446ba-4fbc-43c5-9c47-f38da8634fcd">
 
 
-Creating a music recommender system Natural Language Processing (NLP) techniques to analyze the text descriptions and recommend music based on the content. Here's a high-level overview of how you could approach building such a system using Python:
+Creating a music recommender system using Natural Language Processing (NLP) techniques to analyze the text descriptions and recommend music based on the content. Here's a high-level overview of how you could approach building such a system using Python:
 
 1. *Data Collection:*
    - Dataset Link: https://www.kaggle.com/datasets/notsh...
